@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+}
+
+.caixas {
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    background-color: rgb(255, 143, 240);
+    padding: 20px;
+}
+
+.box {
+    background-color: rgb(159, 209, 255);
+    padding: 20px;
+    width: 100px;
+    text-align: center;
+}
